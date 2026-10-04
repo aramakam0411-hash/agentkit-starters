@@ -1,6 +1,6 @@
 # AgentKit AI Project Starter
 
-A free project folder and two reusable skills for turning an AI app idea into a clear first build.
+A free project folder and six reusable skills for choosing useful AI tools, building a clear first demo, and improving it with real feedback.
 
 Start with a booking page, an enquiry assistant or a small research tool. This kit helps you specify the useful result, ask an agent to build the smallest demo, and check what it actually does.
 
@@ -21,6 +21,12 @@ The [dog walking example](examples/dog-walking/project-brief.md) shows a filled 
 * [Demo review](templates/demo-review.md): check the main task, difficult inputs and what is mocked.
 * [AI project brief skill](skills/ai-project-brief/SKILL.md): turn a rough idea into a buildable brief.
 * [Demo review skill](skills/demo-review/SKILL.md): assess whether a prototype does the promised job.
+* [Repo to use case](skills/repo-to-use-case/SKILL.md): decide whether an AI repository solves your task, with evidence, costs and a small trial.
+* [Workflow to agent](skills/workflow-to-agent/SKILL.md): turn a repeated task into a usable agent instruction and trial plan.
+* [Client demo handoff](skills/client-demo-handoff/SKILL.md): give someone a clear walkthrough with honest working and unfinished behavior.
+* [Feedback to build](skills/feedback-to-build/SKILL.md): turn vague comments into the next concrete change and acceptance check.
+
+The four new skills have matching templates linked inside them. The [enquiry assistant example](examples/enquiry-assistant/workflow-and-handoff.md) shows a filled workflow, feedback change and handoff. It is a fictional design exercise, not a working app or a client result.
 
 The skills are plain Markdown instructions in SKILL.md format. You can give a skill file to your assistant directly. Automatic discovery and installation depend on your chosen agent or editor. This download does not install plugins, run code or connect accounts.
 
